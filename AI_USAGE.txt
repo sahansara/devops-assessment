@@ -1,0 +1,7 @@
+Tool: Gemini AI
+
+Usage for 
+1. Debugging Linux permission errors.
+2. Generating the initial Dockerfile syntax.
+3. Explaining Docker Compose networking.
+4. Helping structure this documentation.
