@@ -1,0 +1,2 @@
+{"hostname":"d4a838265297","message":"Hello from DevOps Training!","timestamp":"2026-01-08T06:45:42.670940","version":"2.0","visits":2}
+{"redis":"connected","status":"healthy"}

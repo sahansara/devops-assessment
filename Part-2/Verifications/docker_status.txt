@@ -1,0 +1,4 @@
+     Name                    Command                   State                         Ports                  
+------------------------------------------------------------------------------------------------------------
+webapp_redis_1    docker-entrypoint.sh redis ...   Up               0.0.0.0:6379->6379/tcp,:::6379->6379/tcp
+webapp_webapp_1   gunicorn --bind 0.0.0.0:50 ...   Up (unhealthy)   0.0.0.0:5000->5000/tcp,:::5000->5000/tcp
